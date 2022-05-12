@@ -1,1 +1,1 @@
-# Algoritmo-Gen-tico-DEAP
+# Algoritmo Genético DEAP
